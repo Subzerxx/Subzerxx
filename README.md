@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I'm not looking for cooperation
 - 📫 How to reach me: Discord (some later)
-- 😄 Pronouns: He/His, ENTP
+- 😄 Pronouns: He
 - ⚡ Fun fact: Unity users are with regards
 
 <!---
